@@ -1,0 +1,18 @@
+# Not committing data
+data/*
+
+# Virtual environment
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDEs
+.vscode/
+
+# downloaded models
+*.pt
+*.pth
